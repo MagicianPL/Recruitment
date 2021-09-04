@@ -141,6 +141,10 @@ const sortingIdents = (e) => {
   } else if (e.target.value === "Malejąco") {
     sortHighToLow(0);
   }
+  
+  titleSelect.value = "Wybierz";
+  dateSelect.value = "Wybierz";
+  pagesSelect.value = "Wybierz";
 };
 
 const sortingTitles = (e) => {
@@ -149,6 +153,10 @@ const sortingTitles = (e) => {
   } else if (e.target.value === "Malejąco") {
     sortHighToLow(1);
   }
+  
+  identSelect.value = "Wybierz";
+  dateSelect.value = "Wybierz";
+  pagesSelect.value = "Wybierz";
 };
 
 const sortingDates = (e) => {
@@ -157,6 +165,10 @@ const sortingDates = (e) => {
   } else if (e.target.value === "Malejąco") {
     sortHighToLow(2);
   }
+  
+  titleSelect.value = "Wybierz";
+  identSelect.value = "Wybierz";
+  pagesSelect.value = "Wybierz";
 };
 
 const sortingPages = (e) => {
@@ -165,6 +177,10 @@ const sortingPages = (e) => {
   } else if (e.target.value === "Malejąco") {
     sortHighToLow(3);
   }
+  
+  titleSelect.value = "Wybierz";
+  dateSelect.value = "Wybierz";
+  identSelect.value = "Wybierz";
 };
 
 const prepareEvents = () => {
