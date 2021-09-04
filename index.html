@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <div class="tools">
+      <input type="text" placeholder="Przeszukaj wg tytułów" />
+      <div class="sorting">
+        <div class="container">
+          <label for="ident">Ident</label>
+          <select name="Ident" id="ident">
+            <option>Wybierz:</option>
+            <option value="Rosnąco">Rosnąco</option>
+            <option value="Malejąco">Malejąco</option>
+          </select>
+        </div>
+
+        <div class="container">
+          <label for="tytuł">Tytuł</label>
+          <select name="Tytuł" id="tytuł">
+            <option>Wybierz:</option>
+            <option value="Rosnąco">Rosnąco</option>
+            <option value="Malejąco">Malejąco</option>
+          </select>
+        </div>
+
+        <div class="container">
+          <label for="data">Data publikacji</label>
+          <select name="Data" id="data">
+            <option>Wybierz:</option>
+            <option value="Rosnąco">Rosnąco</option>
+            <option value="Malejąco">Malejąco</option>
+          </select>
+        </div>
+
+        <div class="container">
+          <label for="strony">Liczba stron</label>
+          <select name="Strony" id="strony">
+            <option>Wybierz:</option>
+            <option value="Rosnąco">Rosnąco</option>
+            <option value="Malejąco">Malejąco</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <table>
+      <tr>
+        <th>IDENT</th>
+        <th>TYTUŁ</th>
+        <th>DATA PUBLIKACJI</th>
+        <th>LICZBA STRON</th>
+      </tr>
+    </table>
+  </body>
+</html>

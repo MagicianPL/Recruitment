@@ -1,0 +1,50 @@
+[
+  {
+    "ident": 1,
+    "polishTitle": "JavaScript. Przewodnik. Poznaj język mistrzów programowania.",
+    "pages": 608,
+    "publicationDate": "2021-03-30"
+  },
+
+  {
+    "ident": 2,
+    "polishTitle": "TypeScript. Od początkującego do profesjonalisty",
+    "pages": 552,
+    "publicationDate": "2020-06-15"
+  },
+
+  {
+    "ident": 3,
+    "polishTitle": "Pragmatyczny programista. Od czeladnika do mistrza. Wydanie II",
+    "pages": 344,
+    "publicationDate": "2021-02-09"
+  },
+
+  {
+    "ident": 4,
+    "polishTitle": "Wprowadzenie do SQL. Jak generować, pobierać i obsługiwać dane. Wydanie III",
+    "pages": 336,
+    "publicationDate": "2021-07-22"
+  },
+
+  {
+    "ident": 5,
+    "polishTitle": "HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Podręcznik Front-End Developera",
+    "pages": 512,
+    "publicationDate": "2017-12-21"
+  },
+
+  {
+    "ident": 6,
+    "polishTitle": "Jak działa Linux. Podręcznik administratora. Wydanie II",
+    "pages": 456,
+    "publicationDate": "2015-11-02"
+  },
+
+  {
+    "ident": 7,
+    "polishTitle": "Czysty kod w C#. Techniki refaktoryzacji i najlepsze praktyki",
+    "pages": 440,
+    "publicationDate": "2021-06-29"
+  }
+]
